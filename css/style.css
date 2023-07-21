@@ -6,3 +6,25 @@ font-size: 36px; }
 ;
 font-weight: bold
 ;}
+
+.yellow .black { font-size: 28px;
+font-family: 'Helvetica,Times New Roman', sans-serif;
+
+ ;}
+
+.yellow {background-color: yellow;
+color: black;}
+
+.black {background-color: black;
+color: white;}
+
+.avatar.proportioned {height: auto;
+width: 300px;}
+
+.avatar.distorted { height: 400px;
+width: 200px;}
+
+
+
+
+
